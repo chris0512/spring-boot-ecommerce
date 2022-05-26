@@ -1,4 +1,13 @@
-# spring-boot-ecommerce
+# Using spring boot as the back-end for the eCommerce web app
+### Build Real-time eCommerce App
+##### Spring Boot back-end connects MySql database.
+##### Using REST API connect between Angular front-end and Spring Boot back-end
+##### Database setup has full CRUD support for the given database.
 
-Using spring boot as backend for emcommerce
-<img width="558" alt="Screen Shot 2022-05-26 at 5 53 57 PM" src="https://user-images.githubusercontent.com/75781998/170464666-0d024019-3908-4d5e-9a47-5f601bf91538.png">
+### features
+##### Show a list of products
+
+##### Shopping cart check out(CRUD)
+
+
+
